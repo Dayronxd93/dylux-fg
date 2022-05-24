@@ -2,8 +2,8 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
-global.owner = [
-  ['59172945992', 'FG98', true], 
+global.owner = ['13373750352
+  ['13373750352', 'Alex', true], 
   ['5492622689586'], 
   ['5493885839638']
 ] //Numeros de owner 
